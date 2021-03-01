@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+.ParteSup{
+	width: 100%; height: 25%;background-color:blue; color:white; font-size: 160%; text-align: center
+}
+
+.ImgBan{
+	max-width: 12%; height: 98% 
+}
+
+
+.ImagenCentral{
+	
+	max-width: 50%; height: 60% 
+	
+}
+
+.ATLAS{
+	width: 100%; height: 55%; background-color:green; color:white;  align: center
+}
+
+
+.titulos{
+	background-color:blue; color:white
+}
+
+
+.Izquierda{
+	
+	width: 20%; height: 100%; background-color:gray; color:white; float:left; text-align: center
+	
+}
+
+
+.Centro{
+	
+	width: 50%; height: 100%; background-color:gray; color:white; float: left; margin-left:5% ; text-align: center
+}
+
+.Derecha{
+	
+	width: 20%; height: 100%; background-color:gray; color:white; float:right; text-align: center
+}
+
+.Abajo{
+	
+	width: 100%; height: 15%; background-color:blue; color:white; text-align: center
+}
+
+body{
+	background-color: green
+}

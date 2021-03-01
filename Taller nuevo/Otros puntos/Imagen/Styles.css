@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+div#d1{
+	background-color: red;
+	width: 2%; 
+	height: 100%; 
+	float: left 
+}
+
+div#d2{
+	background-color: blue;
+	width: 3%;
+	height: 100%;
+	float: left 
+}
+
+div#d3{
+	background-color: yellow;
+	width: 5%; 
+	height: 100%; 
+	float: left
+}
+
+div#d4{
+	background-color: red;
+	width: 8%; 
+	height: 100%; 
+	float: left
+}
+
+div#d5{
+	background-color: blue; 
+	width: 13%; 
+	height: 100%; 
+	float: left  
+}
+
+div#d6{
+	background-color: yellow;
+	width: 30%;
+	height: 100%;
+	float: left 
+}

@@ -1,0 +1,8 @@
+El centro de investigacion Bienvenidos al isekai recibio un trabajo de investigar Style = "margin: 0 auto", ellos lo realizaron con el siguiente comando <div> <img src="images.jpg"></div>
+
+Realizamos muchas pruebas a la imagen que tenemos como Foto del paciente
+La primera prueba consistio en poner Style = "margin: 0 auto", al ver que no paso nada decidimos realizar la segunda prueba
+La segunda prueba consistio en ver que no estabamos haciendo nada mal y decidimos realizar estos pequeños cambios Style = "margin: 50%" pudimos observar que la imagen ocupo media ventana del navegador podriamos decir que tuvimos exitos 
+La tercera prueba consistio en simplemente variar las margen desde 10 hasta 50 utilizando el siguiente comando Style = "margin: 10 auto" y pudimos observar un desplazamiento
+
+Conclusiones: nuestro grupo de investigadores pudieron determinar que Style = "margin: 0 auto" este comando no realizo ningun cambio, como se esperaba algun cambio este experimento fue fallido.  

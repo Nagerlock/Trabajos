@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.Foto{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.Titulos{
+	
+	background-color:blue;
+	color: white;
+	text-align: center
+}
+
+
+.TT1{
+	background-color:Green;
+	color:white
+}
+
+.EL{
+	background-color:gray; 
+	color:white
+}
