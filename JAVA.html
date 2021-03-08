@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title> JAVA Y CS </title>
+</head>
+<body>
+<script>
+document.write('Punto 1' + '<br>');
+var f = new Date();
+document.write(f.getDate() + '/' + (f.getMonth() +10) + '/' + f.getFullYear() + '<br>' );
+document.write('Punto 2' + '<br>');
+var fb = new Date(2021,11,24);
+var fi = f.getDate() + (7*4*(f.getMonth() + 1));
+var ff = fb.getDate() + (7*4*(fb.getMonth() + 1));
+var fr = ff-fi;
+document.write('Los días faltantes para el 24 de diciembre es: ' +fr + '<br>');
+document.write('Punto 4' + '<br>');
+var Acumulacion;
+for(var i = 1;i < 13;i ++){
+for(var j = 0;j < 11;j ++){
+var aux = i*j;
+Acumulacion = i + '*' + j + ' = ' + aux + '<br>';
+document.write(Acumulacion); 
+}
+}
+
+
+</script>
+</body>
+
+</html>
